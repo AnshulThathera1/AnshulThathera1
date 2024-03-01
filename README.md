@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1712793600&v=beta&t=1ONGgK2bRt1RDzej0-AQ3gOAiKhpLnL0_3LHbgF_yM0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anshul Thathera</h1>
 <h3 align="center">A passionate frontend developer from Udaipur,Rajasthan</h3>
-<img align="right" alt="coding" width="400" src="https://www.ujjwalkhatri.in/logoanimation">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulthathera1&label=Profile%20views&color=0e75b6&style=flat" alt="anshulthathera1" /> </p>
 
