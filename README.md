@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anshul Thathera and I'm a FrontEnd Developer, from Udaipur, Rajasthan.</h2>
+<h2 align="left">Hi 👋! My name is Anshul Thathera and I'm a Full-Stack Developer, from Udaipur, Rajasthan.</h2>
 
 ###
 
